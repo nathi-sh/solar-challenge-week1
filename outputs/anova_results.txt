@@ -1,0 +1,3 @@
+One-way ANOVA test on GHI across countries:
+F-statistic = 3988.5698
+p-value = 0.0000e+00
